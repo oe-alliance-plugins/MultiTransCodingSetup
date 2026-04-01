@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "",
+  "description_recipe": "Setup multitranscoding",
+  "history_source_dir": "MultiTransCodingSetup",
+  "internal_package_name": "enigma2-plugin-systemplugins-multitranscodingsetup",
+  "module_dir_name": "MultiTransCodingSetup",
+  "output_subdir": "MultiTransCodingSetup",
+  "package_name": "enigma2-plugin-systemplugins-multitranscodingsetup",
+  "plugin_src_rel": "MultiTransCodingSetup",
+  "python_package": "MultiTransCodingSetup",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "MultiTransCodingSetup",
+  "rrecommends": "",
+  "rreplaces": ""
+}
