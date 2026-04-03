@@ -17,7 +17,7 @@ from os import path
 try:
 	from Components.SystemInfo import BoxInfo
 	MACHINEBUILD = BoxInfo.getItem("model")
-except:
+except ImportError:
 	from boxbranding import getMachineBuild
 	MACHINEBUILD = getMachineBuild()
 
