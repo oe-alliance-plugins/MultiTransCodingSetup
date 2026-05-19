@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MultiTransCodingSetup oe-alliance\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:01+0430\n"
+"POT-Creation-Date: 2026-04-08 21:16+0200\n"
 "PO-Revision-Date: 2017-07-05 20:05+0300\n"
 "Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
 "Language-Team: Vytenis P.\n"
@@ -19,175 +19,231 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-SearchPath-0: ..\n"
 
+#: ../plugin.py:28
 msgid "1.0 Mbps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "1.2 Mbps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "1.5 Mbps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "100 kbps"
 msgstr ""
 
+#: ../plugin.py:47
 msgid "160x120"
 msgstr "160x120"
 
+#: ../plugin.py:49
 msgid "16x9"
 msgstr "16 x 9"
 
+#: ../plugin.py:28
 msgid "2.0 Mbps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "2.5 Mbps"
 msgstr ""
 
+#: ../plugin.py:34
 msgid "23.976 fps"
 msgstr ""
 
+#: ../plugin.py:34
 msgid "24 fps"
 msgstr ""
 
+#: ../plugin.py:34
 msgid "25 fps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "3.0 Mbps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "3.5 Mbps"
 msgstr ""
 
+#: ../plugin.py:34
 msgid "30 fps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "300 kbps"
 msgstr ""
 
+#: ../plugin.py:47
 msgid "320x240"
 msgstr "320x240"
 
+#: ../plugin.py:28
 msgid "4.0 Mbps"
 msgstr ""
 
+#: ../plugin.py:32 ../plugin.py:47
 msgid "480p"
 msgstr "480p"
 
+#: ../plugin.py:49
 msgid "4x3"
 msgstr "4 x 3"
 
+#: ../plugin.py:28
 msgid "5.0 Mbps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "500 kbps"
 msgstr ""
 
+#: ../plugin.py:32 ../plugin.py:47
 msgid "576p"
 msgstr "576p"
 
+#: ../plugin.py:32 ../plugin.py:47
 msgid "720p"
 msgstr "720p"
 
+#: ../plugin.py:28
 msgid "800 kbps"
 msgstr ""
 
+#: ../plugin.py:134 ../plugin.py:143
 msgid "Aspect Ratio"
 msgstr "Vaizdo Formatas"
 
+#: ../plugin.py:49
 msgid "Auto"
 msgstr "Automatiškai"
 
+#: ../plugin.py:130 ../plugin.py:137 ../plugin.py:140
 msgid "Bitrate in bits"
 msgstr "Bitų srautas"
 
+#: ../setup.xml
 #, fuzzy
 msgid "Encoder Aspect Ratio"
 msgstr "Vaizdo Formatas"
 
+#: ../setup.xml
 msgid "Encoder Bitrate"
 msgstr ""
 
+#: ../setup.xml
 #, fuzzy
 msgid "Encoder Framerate"
 msgstr "Kadrų dažnis"
 
+#: ../setup.xml
 #, fuzzy
 msgid "Encoder Interlaced"
 msgstr "Dvieilio pynimo"
 
+#: ../setup.xml
 #, fuzzy
 msgid "Encoder Resolution"
 msgstr "Rezoliucija"
 
+#: ../setup.xml
 msgid "Encoder Video Codec"
 msgstr ""
 
+#: ../plugin.py:89
 msgid "Exit"
 msgstr "Užverti"
 
+#: ../plugin.py:131 ../plugin.py:138 ../plugin.py:141
 msgid "Framerate"
 msgstr "Kadrų dažnis"
 
+#: ../plugin.py:33
 msgid "H.264"
 msgstr ""
 
+#: ../plugin.py:33
 msgid "H.265"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "HD1080"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "HD1080 DV"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "HD720"
 msgstr ""
 
+#: ../plugin.py:135 ../plugin.py:144
 msgid "Interlaced"
 msgstr "Dvieilio pynimo"
 
+#: ../plugin.py:163
 msgid "Max"
 msgstr "Maks."
 
+#: ../plugin.py:163
 msgid "Min"
 msgstr "Min."
 
+#: ../plugin.py:201
 msgid "Multi device transcoding setup"
 msgstr "Kelių įrenginių perkodavimo sąranka"
 
+#: ../plugin.py:200
 msgid "Multi-Transcoding Setup"
 msgstr "Multi-perkodavimo sąranka"
 
+#: ../plugin.py:50
 msgid "No"
 msgstr "ne"
 
+#: ../plugin.py:30
 msgid "PAL"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "PAL DV"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "PAL SVCD"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "PAL-wide"
 msgstr ""
 
+#: ../plugin.py:189
 msgid "Really close without saving settings?"
 msgstr "Tikrai uždaryti, neišsaugant nustatymų?"
 
+#: ../plugin.py:132 ../plugin.py:142
 msgid "Resolution"
 msgstr "Rezoliucija"
 
+#: ../plugin.py:90
 msgid "Save"
 msgstr "Išsaugoti"
 
+#: ../setup.xml
 msgid "Setup your timezone."
 msgstr ""
 
+#: ../plugin.py:125
 msgid "This model does not support transcoding."
 msgstr "Šis modelis perkoduoti nesugeba."
 
+#: ../plugin.py:97
 msgid ""
 "To use transcoding You can build URL for VLC by Yourself\n"
 "\n"
@@ -195,9 +251,11 @@ msgstr ""
 "Kad naudoti perkodavimą, turite VLC patys nurodyti internetinį adresą\n"
 "\n"
 
+#: ../plugin.py:74 ../setup.xml
 msgid "Transcoding Setup"
 msgstr "Perkodavimo sąranka"
 
+#: ../plugin.py:107
 msgid ""
 "Transcoding from HDMI-IN e.x:\n"
 "\n"
@@ -205,14 +263,18 @@ msgstr ""
 "Perkodavimas per HDMI įvestį:\n"
 "\n"
 
+#: ../plugin.py:133
 msgid "Video codec"
 msgstr ""
 
+#: ../plugin.py:50
 msgid "Yes"
 msgstr "taip"
 
+#: ../plugin.py:26
 msgid "disable"
 msgstr "išjungti"
 
+#: ../plugin.py:26
 msgid "enable"
 msgstr "įjungti"

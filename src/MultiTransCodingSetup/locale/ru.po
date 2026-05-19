@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TransCodingSetup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:01+0430\n"
+"POT-Creation-Date: 2026-04-08 21:16+0200\n"
 "PO-Revision-Date: 2024-09-22 23:55+0300\n"
 "Last-Translator: Viacheslav Dikonov <sdiconov@mail.ru>\n"
 "Language-Team: OpenATV\n"
@@ -15,171 +15,227 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Generator: Poedit 3.3.2\n"
 
+#: ../plugin.py:28
 msgid "1.0 Mbps"
 msgstr "1.0 Мбит/с"
 
+#: ../plugin.py:28
 msgid "1.2 Mbps"
 msgstr "1.2 Мбит/с"
 
+#: ../plugin.py:28
 msgid "1.5 Mbps"
 msgstr "1.5 Мбит/с"
 
+#: ../plugin.py:28
 msgid "100 kbps"
 msgstr "100 Кбит/с"
 
+#: ../plugin.py:47
 msgid "160x120"
 msgstr ""
 
+#: ../plugin.py:49
 msgid "16x9"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "2.0 Mbps"
 msgstr "2.0 Мбит/с"
 
+#: ../plugin.py:28
 msgid "2.5 Mbps"
 msgstr "2.5 Мбит/с"
 
+#: ../plugin.py:34
 msgid "23.976 fps"
 msgstr "23.976 кадров"
 
+#: ../plugin.py:34
 msgid "24 fps"
 msgstr "24 кадра"
 
+#: ../plugin.py:34
 msgid "25 fps"
 msgstr "25 кадров"
 
+#: ../plugin.py:28
 msgid "3.0 Mbps"
 msgstr "3.0 Мбит/с"
 
+#: ../plugin.py:28
 msgid "3.5 Mbps"
 msgstr "3.5 Мбит/с"
 
+#: ../plugin.py:34
 msgid "30 fps"
 msgstr "30 кадров"
 
+#: ../plugin.py:28
 msgid "300 kbps"
 msgstr "300 Кбит/с"
 
+#: ../plugin.py:47
 msgid "320x240"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "4.0 Mbps"
 msgstr "4.0 Мбит/с"
 
+#: ../plugin.py:32 ../plugin.py:47
 msgid "480p"
 msgstr ""
 
+#: ../plugin.py:49
 msgid "4x3"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "5.0 Mbps"
 msgstr "5.0 Мбит/с"
 
+#: ../plugin.py:28
 msgid "500 kbps"
 msgstr "500 Кбит/с"
 
+#: ../plugin.py:32 ../plugin.py:47
 msgid "576p"
 msgstr ""
 
+#: ../plugin.py:32 ../plugin.py:47
 msgid "720p"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "800 kbps"
 msgstr "800 Кбит/с"
 
+#: ../plugin.py:134 ../plugin.py:143
 msgid "Aspect Ratio"
 msgstr "Соотношение сторон"
 
+#: ../plugin.py:49
 msgid "Auto"
 msgstr "Авто"
 
+#: ../plugin.py:130 ../plugin.py:137 ../plugin.py:140
 msgid "Bitrate in bits"
 msgstr "Битрейт в битах"
 
+#: ../setup.xml
 msgid "Encoder Aspect Ratio"
 msgstr "Соотношение сторон"
 
+#: ../setup.xml
 msgid "Encoder Bitrate"
 msgstr "Битрейт кодирования"
 
+#: ../setup.xml
 msgid "Encoder Framerate"
 msgstr "Частота кадров кодирования"
 
+#: ../setup.xml
 msgid "Encoder Interlaced"
 msgstr "Чересстрочность"
 
+#: ../setup.xml
 msgid "Encoder Resolution"
 msgstr "Разрешение"
 
+#: ../setup.xml
 msgid "Encoder Video Codec"
 msgstr "Видеокодек"
 
+#: ../plugin.py:89
 msgid "Exit"
 msgstr "Выход"
 
+#: ../plugin.py:131 ../plugin.py:138 ../plugin.py:141
 msgid "Framerate"
 msgstr "Частота кадров"
 
+#: ../plugin.py:33
 msgid "H.264"
 msgstr ""
 
+#: ../plugin.py:33
 msgid "H.265"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "HD1080"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "HD1080 DV"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "HD720"
 msgstr ""
 
+#: ../plugin.py:135 ../plugin.py:144
 msgid "Interlaced"
 msgstr "Чересстрочное изображение"
 
+#: ../plugin.py:163
 msgid "Max"
 msgstr "Макс"
 
+#: ../plugin.py:163
 msgid "Min"
 msgstr "Мин"
 
+#: ../plugin.py:201
 msgid "Multi device transcoding setup"
 msgstr "Настройка транскодирования для различных устройств"
 
+#: ../plugin.py:200
 msgid "Multi-Transcoding Setup"
 msgstr "Настройка мультитранскодирования"
 
+#: ../plugin.py:50
 msgid "No"
 msgstr "Нет"
 
+#: ../plugin.py:30
 msgid "PAL"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "PAL DV"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "PAL SVCD"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "PAL-wide"
 msgstr "PAL-широкоэкранный"
 
+#: ../plugin.py:189
 msgid "Really close without saving settings?"
 msgstr "Закрыть без сохранения?"
 
+#: ../plugin.py:132 ../plugin.py:142
 msgid "Resolution"
 msgstr "Разрешение"
 
+#: ../plugin.py:90
 msgid "Save"
 msgstr "Сохранить"
 
+#: ../setup.xml
 msgid "Setup your timezone."
 msgstr "Укажите свой часовой пояс"
 
+#: ../plugin.py:125
 msgid "This model does not support transcoding."
 msgstr "Эта модель не поддерживает транскодирование"
 
+#: ../plugin.py:97
 msgid ""
 "To use transcoding You can build URL for VLC by Yourself\n"
 "\n"
@@ -187,9 +243,11 @@ msgstr ""
 "Вы можете сами составить URL с транскодированием для VLC\n"
 "\n"
 
+#: ../plugin.py:74 ../setup.xml
 msgid "Transcoding Setup"
 msgstr "Настройка транскодирования"
 
+#: ../plugin.py:107
 msgid ""
 "Transcoding from HDMI-IN e.x:\n"
 "\n"
@@ -197,14 +255,18 @@ msgstr ""
 "Транскодирование из HDMI-IN:\n"
 "\n"
 
+#: ../plugin.py:133
 msgid "Video codec"
 msgstr "Видеокодек"
 
+#: ../plugin.py:50
 msgid "Yes"
 msgstr "Да"
 
+#: ../plugin.py:26
 msgid "disable"
 msgstr "выкл"
 
+#: ../plugin.py:26
 msgid "enable"
 msgstr "вкл"

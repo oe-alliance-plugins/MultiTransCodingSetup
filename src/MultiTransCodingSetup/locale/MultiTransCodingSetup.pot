@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the MultiTransCodingSetup package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: MultiTransCodingSetup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 14:49+0100\n"
+"POT-Creation-Date: 2026-04-08 21:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,192 +17,254 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: ../plugin.py:28
 msgid "1.0 Mbps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "1.2 Mbps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "1.5 Mbps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "100 kbps"
 msgstr ""
 
+#: ../plugin.py:47
 msgid "160x120"
 msgstr ""
 
+#: ../plugin.py:49
 msgid "16x9"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "2.0 Mbps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "2.5 Mbps"
 msgstr ""
 
+#: ../plugin.py:34
 msgid "23.976 fps"
 msgstr ""
 
+#: ../plugin.py:34
 msgid "24 fps"
 msgstr ""
 
+#: ../plugin.py:34
 msgid "25 fps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "3.0 Mbps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "3.5 Mbps"
 msgstr ""
 
+#: ../plugin.py:34
 msgid "30 fps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "300 kbps"
 msgstr ""
 
+#: ../plugin.py:47
 msgid "320x240"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "4.0 Mbps"
 msgstr ""
 
+#: ../plugin.py:32 ../plugin.py:47
 msgid "480p"
 msgstr ""
 
+#: ../plugin.py:49
 msgid "4x3"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "5.0 Mbps"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "500 kbps"
 msgstr ""
 
+#: ../plugin.py:32 ../plugin.py:47
 msgid "576p"
 msgstr ""
 
+#: ../plugin.py:32 ../plugin.py:47
 msgid "720p"
 msgstr ""
 
+#: ../plugin.py:28
 msgid "800 kbps"
 msgstr ""
 
+#: ../plugin.py:134 ../plugin.py:143
 msgid "Aspect Ratio"
 msgstr ""
 
+#: ../plugin.py:49
 msgid "Auto"
 msgstr ""
 
+#: ../plugin.py:130 ../plugin.py:137 ../plugin.py:140
 msgid "Bitrate in bits"
 msgstr ""
 
+#: ../setup.xml
+msgid "Encoder Aspect Ratio"
+msgstr ""
+
+#: ../setup.xml
+msgid "Encoder Bitrate"
+msgstr ""
+
+#: ../setup.xml
+msgid "Encoder Framerate"
+msgstr ""
+
+#: ../setup.xml
+msgid "Encoder Interlaced"
+msgstr ""
+
+#: ../setup.xml
+msgid "Encoder Resolution"
+msgstr ""
+
+#: ../setup.xml
+msgid "Encoder Video Codec"
+msgstr ""
+
+#: ../plugin.py:89
 msgid "Exit"
 msgstr ""
 
+#: ../plugin.py:131 ../plugin.py:138 ../plugin.py:141
 msgid "Framerate"
 msgstr ""
 
+#: ../plugin.py:33
 msgid "H.264"
 msgstr ""
 
+#: ../plugin.py:33
 msgid "H.265"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "HD1080"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "HD1080 DV"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "HD720"
 msgstr ""
 
+#: ../plugin.py:135 ../plugin.py:144
 msgid "Interlaced"
 msgstr ""
 
+#: ../plugin.py:163
 msgid "Max"
 msgstr ""
 
+#: ../plugin.py:163
 msgid "Min"
 msgstr ""
 
+#: ../plugin.py:201
 msgid "Multi device transcoding setup"
 msgstr ""
 
+#: ../plugin.py:200
 msgid "Multi-Transcoding Setup"
 msgstr ""
 
+#: ../plugin.py:50
 msgid "No"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "PAL"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "PAL DV"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "PAL SVCD"
 msgstr ""
 
+#: ../plugin.py:30
 msgid "PAL-wide"
 msgstr ""
 
+#: ../plugin.py:189
 msgid "Really close without saving settings?"
 msgstr ""
 
+#: ../plugin.py:132 ../plugin.py:142
 msgid "Resolution"
 msgstr ""
 
+#: ../plugin.py:90
 msgid "Save"
 msgstr ""
 
+#: ../setup.xml
+msgid "Setup your timezone."
+msgstr ""
+
+#: ../plugin.py:125
 msgid "This model does not support transcoding."
 msgstr ""
 
+#: ../plugin.py:97
 msgid ""
 "To use transcoding You can build URL for VLC by Yourself\n"
 "\n"
 msgstr ""
 
+#: ../plugin.py:74 ../setup.xml
 msgid "Transcoding Setup"
 msgstr ""
 
+#: ../plugin.py:107
 msgid ""
 "Transcoding from HDMI-IN e.x:\n"
 "\n"
 msgstr ""
 
+#: ../plugin.py:133
 msgid "Video codec"
 msgstr ""
 
+#: ../plugin.py:50
 msgid "Yes"
 msgstr ""
 
+#: ../plugin.py:26
 msgid "disable"
 msgstr ""
 
+#: ../plugin.py:26
 msgid "enable"
-msgstr ""
-
-msgid "Encoder Aspect Ratio"
-msgstr ""
-
-msgid "Encoder Bitrate"
-msgstr ""
-
-msgid "Encoder Framerate"
-msgstr ""
-
-msgid "Encoder Interlaced"
-msgstr ""
-
-msgid "Encoder Resolution"
-msgstr ""
-
-msgid "Encoder Video Codec"
-msgstr ""
-
-msgid "Setup your timezone."
 msgstr ""
